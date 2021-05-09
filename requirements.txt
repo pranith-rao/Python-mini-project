@@ -1,0 +1,12 @@
+SpeechRecognition
+gTTS
+pyttsx3
+yfinance
+webbrowser
+pandas
+pymysql
+openpyxl
+python-docx
+docx2pdf
+PyPDF2
+json
